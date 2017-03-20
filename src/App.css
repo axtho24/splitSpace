@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 70%;
+  display: flex;
+  margin: auto;
+}
+
+.App-header {
+  background-image: url('./splitspace.jpg');
+  background-size: cover;
+  height: 20em;
+  padding: 20px;
+}

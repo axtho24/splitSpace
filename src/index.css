@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.content {
+  padding-top: 2em;
+}
+
+.modal-container {
+  position: relative;
+}
+
+.modal-container .modal, .modal-container .modal-backdrop {
+  position: absolute;
+}
+
+.modal .modal-dialog .modal-content {
+  background-color: #807f7e;
+  color: white;
+}
+
+.tabs {
+  display: inline-block;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+}
